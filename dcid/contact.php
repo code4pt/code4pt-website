@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt">
     <head>
-        <?php require(PHP_ROOT.'base.php'); require(PHP_ROOT.'common_daas.php');
+        <?php require(PHP_ROOT.'base.php'); require(PHP_ROOT.'common_dcid.php');
               echo $BS_header ?>
         <?php require_once(PHP_ROOT.'privatedaddy.php'); ?>
-        <title>DaaS - Contactos</title>
+        <title>dcid - Contactos</title>
         <meta name="description" content="">
     </head>
 
     <body>
 
-        <?php echo $navbar_top_daas; ?>
+        <?php echo $navbar_top_dcid; ?>
 
         <div class="container">
 

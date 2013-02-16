@@ -1,6 +1,6 @@
 <?php
 
-$navbar_top_daas = '
+$navbar_top_dcid = '
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="navbar-inner">
             <div class="container">
@@ -8,12 +8,12 @@ $navbar_top_daas = '
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span> </a>
-                <a class="brand" href="/en/">Code4PT</a>
+                <a class="brand" href="/">Code4PT</a>
                 <div class="nav-collapse collapse" style="height: 0px; ">
                     <ul class="nav">
-                        <li class="active"><a href="/en/daas/">DaaS</a></li>
-                        <li><a href="/en/daas/team.php">Team</a></li>
-                        <li><a href="/en/daas/contact.php">Contact</a></li>
+                        <li class="active"><a href="/dcid/">dcid</a></li>
+                        <li><a href="/dcid/team.php">Equipa</a></li>
+                        <li><a href="/dcid/contact.php">Contacto</a></li>
                     </ul>
                 </div>
             </div>

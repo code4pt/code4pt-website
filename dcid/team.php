@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt">
     <head>
-        <?php require(PHP_ROOT.'base.php'); require(PHP_ROOT.'common_daas.php');
+        <?php require(PHP_ROOT.'base.php'); require(PHP_ROOT.'common_dcid.php');
               echo $BS_header ?>
-        <title>DaaS - A equipa</title>
+        <title>dcid - A equipa</title>
         <meta name="description" content="">
     </head>
 
     <body>
 
-        <?php echo $navbar_top_daas; ?>
+        <?php echo $navbar_top_dcid; ?>
 
         <div class="container">
 
@@ -27,9 +27,9 @@
                         <li>Diogo Nunes</li>
                         <li>João Mateus</li>
                         <li>Paulo Martins</li>
+                        <li>Cátia Ferreira</li>
                         <li>Filipe Tavares</li>
                         <li>Rafael Santos</li>
-                        <li>Cátia Ferreira</li>
                     </b></ul></p>
                 </div>
                 <div class="span6">

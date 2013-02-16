@@ -15,7 +15,7 @@
             <div class="hero-unit">
                 <h1>Code For Portugal</h1>
                 <p>Welcome to Code4PT's official webpage.</p>
-                <p><a class="btn btn-primary btn-large" href="daas/">Developers, join the cause</a></p>
+                <p><a class="btn btn-primary btn-large" href="dcid/">Developers, join the cause</a></p>
             </div>
 
             <div class="row-fluid">
@@ -37,7 +37,7 @@
                 <div class="span12">
                     <h2>Projects</h2>
                     <p><ul>
-                        <li class="lead"><a href="daas/"><b>DaaS</b> - a plaftorm to support Participatory Budgets (Orçamentos Participativos) and online discussions.</a></li>
+                        <li class="lead"><a href="dcid/"><b>dcid</b> - a plaftorm to support Participatory Budgets (Orçamentos Participativos) and online discussions.</a></li>
                     </ul></p>
                 </div>
             </div>
@@ -50,10 +50,10 @@
                             <p><a class="btn btn-info" href="submit-idea.php">I want to share an idea &raquo;</a> Submit it to our idea pool.</p>
                         </div>
                         <div class="span4">
-                            <p><a class="btn btn-info" href="daas/contact.php">I want to support you &raquo;</a> There are many ways you can help us, start by choosing one.</p>
+                            <p><a class="btn btn-info" href="dcid/contact.php">I want to support you &raquo;</a> There are many ways you can help us, start by choosing one.</p>
                         </div>
                         <div class="span4">
-                            <p><a class="btn btn-info" href="daas/contact.php">I want to contact you &raquo;</a> We would love to hear from you.</p>
+                            <p><a class="btn btn-info" href="dcid/contact.php">I want to contact you &raquo;</a> We would love to hear from you.</p>
                         </div>
                     </div>
                 </div>

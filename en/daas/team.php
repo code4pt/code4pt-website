@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php require(PHP_ROOT.'en_base.php'); require(PHP_ROOT.'en_common_daas.php');
+        <?php require(PHP_ROOT.'en_base.php'); require(PHP_ROOT.'en_common_dcid.php');
               echo $BS_header ?>
-        <title>DaaS - Meet the team</title>
+        <title>dcid - Meet the team</title>
         <meta name="description" content="">
     </head>
 
     <body>
 
-        <?php echo $navbar_top_daas; ?>
+        <?php echo $navbar_top_dcid; ?>
 
         <div class="container">
 

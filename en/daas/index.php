@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php require(PHP_ROOT.'en_base.php'); require(PHP_ROOT.'en_common_daas.php');
+        <?php require(PHP_ROOT.'en_base.php'); require(PHP_ROOT.'en_common_dcid.php');
               echo $BS_header ?>
-        <title>DaaS - Developers homepage</title>
+        <title>dcid - Developers homepage</title>
         <meta name="description" content="">
     </head>
 
     <body>
 
-        <?php echo $navbar_top_daas; ?>
+        <?php echo $navbar_top_dcid; ?>
 
         <div class="container">
 
@@ -26,13 +26,13 @@
                 </div>
                 <div class="span6">
                     <h2>Our solution</h2>
-                    <p class="lead">Codenamed 'DaaS' (<em>Democracy as a Service</em>) is an open platform which offers a simple and effective way to discuss arguments and vote on polls online, because that's what democracy is about. For Participatory Budgets the users' login is attested using the citizens' <a href="http://www.senha001.gov.pt/instalacao.php">Cartão de Cidadão</a>.</p>
+                    <p class="lead">Codenamed 'dcid' (<em>Democracy as a Service</em>) is an open platform which offers a simple and effective way to discuss arguments and vote on polls online, because that's what democracy is about. For Participatory Budgets the users' login is attested using the citizens' <a href="http://www.senha001.gov.pt/instalacao.php">Cartão de Cidadão</a>.</p>
                 </div>
             </div>
             <div class="row">
                 <div class="span6">
                     <h2>The team</h2>
-                    <p>You can check the <a href="team.php">contributors</a> so far or view the project's progress at our open <a class="btn btn-primary" href="https://trello.com/board/daas/503deb00e6d4f29553864216">Trello board &raquo;</a></p>
+                    <p>You can check the <a href="team.php">contributors</a> so far or view the project's progress at our open <a class="btn btn-primary" href="https://trello.com/board/dcid/503deb00e6d4f29553864216">Trello board &raquo;</a></p>
                 </div>
                 <div class="span6">
                     <h2>Stay tuned. Get involved.</h2>
