@@ -1,0 +1,8 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^code4pt.info [NC]
+RewriteRule ^(.*)$ http://www.code4pt.info/$1 [L,R=301]
+
+# Define PHP root
+php_value auto_prepend_file /home/a9675387/public_html/styles/php/init.php

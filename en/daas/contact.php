@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <?php require(PHP_ROOT.'en_base.php'); require(PHP_ROOT.'en_common_daas.php');
+              echo $BS_header ?>
+        <?php require_once(PHP_ROOT.'privatedaddy.php'); ?>
+        <title>DaaS - Contacts</title>
+        <meta name="description" content="">
+    </head>
+
+    <body>
+
+        <?php echo $navbar_top_daas; ?>
+
+        <div class="container">
+
+            <div class="row">
+                <div class="span12 well">
+                    <h1>Choose wisely...</h1>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="span4">
+                    <h2>More information</h2>
+                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                </div>
+                <div class="span4">
+                    <h2>Suggestions</h2>
+                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                </div>
+                <div class="span4">
+                    <h2>Project leader</h2>
+                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                </div>
+            </div>
+
+            <?php echo $footer; ?>
+
+        </div>
+
+        <?php echo $JS_scripts; ?>
+        <?php echo $google_analytics; ?>
+
+    </body>
+</html>
