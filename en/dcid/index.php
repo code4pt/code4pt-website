@@ -26,7 +26,7 @@
                 </div>
                 <div class="span6">
                     <h2>Our solution</h2>
-                    <p class="lead">Codenamed 'dcid' (<em>Democracy as a Service</em>) is an open platform which offers a simple and effective way to discuss arguments and vote on polls online, because that's what democracy is about. For Participatory Budgets the users' login is attested using the citizens' <a href="http://www.senha001.gov.pt/instalacao.php">Cartão de Cidadão</a>.</p>
+                    <p class="lead">Codenamed 'dcid' (spelled <em>decide</em>) is an open platform which offers a simple and effective way to discuss arguments and vote on polls online, because that's what democracy is about. For Participatory Budgets the users' login is attested using the citizens' <a href="http://www.senha001.gov.pt/instalacao.php">Cartão de Cidadão</a>.</p>
                 </div>
             </div>
             <div class="row">
