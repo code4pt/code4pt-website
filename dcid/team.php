@@ -25,15 +25,15 @@
                     <p>Indivíduos que deram do seu tempo, conhecimento e olhinhos para programar este projeto. Muito obrigado:</a></p>
                     <p><ul><b>
                         <li>Diogo Nunes</li>
-                        <li>João Mateus</li>
                         <li>Paulo Martins</li>
                         <li>Cátia Ferreira</li>
-                        <li>Filipe Tavares</li>
                         <li>Rafael Santos</li>
+                        <li>João Mateus</li>
+                        <li>Filipe Tavares</li>
                     </b></ul></p>
                 </div>
                 <div class="span6">
-                    <h2>Colaboradores</h2>
+                    <h2>Parceiros</h2>
                     <p></p>
                 </div>
             </div>

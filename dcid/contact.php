@@ -35,7 +35,7 @@
                 </div>
             </div>
             
-            <div class="span12"><p><i>Sim, nós sabemos que um endereço gmail não é profissional. Criar um email *@code4pt.info está na nossa lista de afazeres mas não é prioritário. Obrigado pela compreensão :)</i></p></div>
+            <div class="span12"><p><i>Sim, nós sabemos que um endereço gmail não é profissional. Criar um email ___@code4pt.info está na nossa lista de afazeres mas não é prioritário. Obrigado pela compreensão :)</i></p></div>
 
             <?php echo $footer; ?>
 

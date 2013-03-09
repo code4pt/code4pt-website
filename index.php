@@ -67,7 +67,7 @@
             </div>
             <div class="row-fluid">
                 <div class="span12" align="center">
-                    <p><?php echo $supporters; ?></p>
+                    <p><?php echo $common_supporters; ?></p>
                 </div>
             </div>
             

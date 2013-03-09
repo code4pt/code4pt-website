@@ -8,7 +8,7 @@ $navbar_top_home = '
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span> </a>
-                <a class="brand" href="/">Code4PT</a>
+                <a class="brand" href="/"><img src="/styles/img/logo-code4pt-draft3-grad-mini.png" width="23px" height="auto" />&nbsp;Code4PT</a>
                 <div class="nav-collapse collapse" style="height: 0px; ">
                     <ul class="nav">
                         <li class="active"><a href="/">Home</a></li>
@@ -30,10 +30,10 @@ $navbar_top_home = '
     </div>
 ';
 
-$supporters = '
-    <a href="http://neiist.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/content/img/logo_neiist.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://hackerschool.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/content/img/logo_hackerschool.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://lage2.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/content/img/logo_lage2.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+$common_supporters = '
+    <a href="http://neiist.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/sponsors/img/logo_neiist.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://hackerschool.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/sponsors/img/logo_hackerschool.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://lage2.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/sponsors/img/logo_lage2.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 ';
 
 ?>
