@@ -31,7 +31,7 @@
             
             <div class="row-fluid">
                 <div class="span12">
-                    <h2>O que temos até agora</h2>
+                    <a name="screenshots" id="screenshots"></a><h2>O que temos até agora</h2>
                     <div class="row-fluid">
                         <ul class="thumbnails">
                             <li class="span4">
