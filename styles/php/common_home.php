@@ -8,7 +8,7 @@ $navbar_top_home = '
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span> </a>
-                <a class="brand" href="/"><img src="/styles/img/logo-code4pt-draft3-grad-mini.png" width="23px" height="auto" />&nbsp;Code4PT</a>
+                <a class="brand" href="/"><img src="/styles/img/logo-code4pt-draft3-grad-mini.png" width="23px" height="auto" />&nbsp;<span style="color:#00CC00">Code</span><span style="color:yellow">4</span><span style="color:red">PT</span></a>
                 <div class="nav-collapse collapse" style="height: 0px; ">
                     <ul class="nav">
                         <li class="active"><a href="/">Home</a></li>
