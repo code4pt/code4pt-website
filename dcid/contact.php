@@ -23,19 +23,17 @@
             <div class="row">
                 <div class="span4">
                     <h2>Mais informação</h2>
-                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                    <p><a href="mailto:email@code4pt.info">email@code4pt.info</a></p>
                 </div>
                 <div class="span4">
                     <h2>Sugestões</h2>
-                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                    <p><a href="mailto:email@code4pt.info">email@code4pt.info</a></p>
                 </div>
                 <div class="span4">
                     <h2>Líder do projeto</h2>
-                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                    <p><a href="mailto:email@code4pt.info">email@code4pt.info</a></p>
                 </div>
             </div>
-            
-            <div class="span12"><p><i>Sim, nós sabemos que um endereço gmail não é profissional. Criar um email ___@code4pt.info está na nossa lista de afazeres mas não é prioritário. Obrigado pela compreensão :)</i></p></div>
 
             <?php echo $footer; ?>
 
