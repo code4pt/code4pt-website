@@ -15,7 +15,7 @@
             <div class="hero-unit">
                 <h1>Programar por Portugal</h1>
                 <p>Bem-vindo à página oficial do Code4PT.</p>
-                <p><a class="btn btn-primary btn-large" href="/dcid/">Programadores, juntem-se à causa</a></p>
+                <p><a class="btn btn-primary btn-large" href="/dcid/">Todos podem participar!</a></p>
             </div>
 
             <div class="row-fluid">
@@ -70,7 +70,6 @@
                     <p><?php echo $common_supporters; ?></p>
                 </div>
             </div>
-            
 
             <?php echo $footer; ?>
 

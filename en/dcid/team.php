@@ -21,14 +21,22 @@
 
             <div class="row">
                 <div class="span6">
-                    <h2>Developers</h2>
-                    <p>Individuals that spent their time, knowledge and eyes coding this project. We thank:</p>
+                    <h2>Core team</h2>
                     <p><ul><b>
                         <li>Diogo Nunes</li>
+                        <li>António Pereira</li>
+                        <li>Paulo Martins</li>
+                        <li>Ana Almeida</li>
                     </b></ul></p>
+                    <h3>Previous members</h3>
+                    <p><ul><b>
+                        <li>Cátia Ferreira</li>
+                        <li>Rafael Santos</li>
+                        <li>João Mateus</li>
+                        <li>Filipe Tavares</li>
                 </div>
                 <div class="span6">
-                    <h2>Colaborators</h2>
+                    <h2>Partners</h2>
                     <p></p>
                 </div>
             </div>

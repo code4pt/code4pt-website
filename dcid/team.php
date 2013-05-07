@@ -19,22 +19,56 @@
                 </div>
             </div>
 
-            <div class="row">
-                <div class="span6">
-                    <h2>Programadores</h2>
-                    <p>Indivíduos que deram do seu tempo, conhecimento e olhinhos para programar este projeto. Muito obrigado:</a></p>
-                    <p><ul><b>
-                        <li>Diogo Nunes</li>
-                        <li>Paulo Martins</li>
-                        <li>Cátia Ferreira</li>
-                        <li>Rafael Santos</li>
-                        <li>João Mateus</li>
-                        <li>Filipe Tavares</li>
-                    </b></ul></p>
+            <div class="row-fluid">
+                <div class="span12">
+                    <h2>Equipa principal</h2>
+                    <ul class="thumbnails">
+                        <li class="span2 offset1">
+                            <div class="thumbnail text-center">
+                                <img src="img/team/placeholder.jpg" alt="photo">
+                                <h3>Diogo Nunes</h3>
+                                <p><a href="#"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                    <a href="#"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                </p>
+                            </div>
+                        </li>
+                        <li class="span2 offset1">
+                            <div class="thumbnail text-center">
+                                <img src="img/team/placeholder.jpg" alt="photo">
+                                <h3>António Pereira</h3>
+                                <p><a href="#"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                    <a href="#"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                </p>
+                            </div>
+                        </li>
+                        <li class="span2 offset1">
+                            <div class="thumbnail text-center">
+                                <img src="img/team/placeholder.jpg" alt="photo">
+                                <h3>Paulo Martins</h3>
+                                <p><a href="#"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                    <a href="#"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                </p>
+                            </div>
+                        </li>
+                        <li class="span2 offset1">
+                            <div class="thumbnail text-center">
+                                <img src="img/team/placeholder.jpg" alt="photo">
+                                <h3>Ana Almeida</h3>
+                                <p><a href="#"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                    <a href="#"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                    <h3>Antigos membros</h3>
+                    <p>Cátia Ferreira, Rafael Santos, João Mateus, Filipe Tavares</p>
                 </div>
-                <div class="span6">
+            </div>
+            
+            <div class="row-fluid">
+                <div class="span12">
                     <h2>Parceiros</h2>
-                    <p></p>
+                    <p><a href="contact.php">Podemos ajudar-nos mutuamente?</a></p>
                 </div>
             </div>
 

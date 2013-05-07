@@ -23,15 +23,15 @@
             <div class="row">
                 <div class="span4">
                     <h2>More information</h2>
-                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                    <p><a href="mailto:email@code4pt.info">email@code4pt.info</a></p>
                 </div>
                 <div class="span4">
                     <h2>Suggestions</h2>
-                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                    <p><a href="mailto:email@code4pt.info">email@code4pt.info</a></p>
                 </div>
                 <div class="span4">
                     <h2>Project leader</h2>
-                    <p><a href="mailto:code4pt@gmail.com">code4pt@gmail.com</a></p>
+                    <p><a href="mailto:email@code4pt.info">email@code4pt.info</a></p>
                 </div>
             </div>
 
