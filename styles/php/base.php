@@ -7,11 +7,11 @@ $BS_header = '
     <link rel="shortcut icon" href="/styles/img/favicon.ico">
 
     <!-- Le styles -->
-    <link href="/styles/css/bootstrap.css" rel="stylesheet">
+    <link href="/styles/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {padding-top: 60px;}
     </style>
-    <link href="/styles/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="/styles/css/bootstrap-responsive.min.css" rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -20,8 +20,8 @@ $BS_header = '
 ';
 
 $JS_scripts = '
-    <script src="/styles/js/jquery.js"></script>
-    <script src="/styles/js/bootstrap.js"></script>
+    <script src="/styles/js/jquery.min.js"></script>
+    <script src="/styles/js/bootstrap.min.js"></script>
 ';
 
 $footer = '
