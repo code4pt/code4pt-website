@@ -43,7 +43,8 @@
                     <br/><br/>
                     <h2>A equipa</h2>
                     <p>Todas <a href="team.php">estas pessoas já nos ajudaram</a> neste projeto.</p>
-                    <h2>Segue-nos ou vem connosco</h2>
+                    <br/>
+                    <h2>Junta-te à conversa</h2>
                     <p><a href="https://facebook.com/code4pt"><img src="/styles/img/sico_facebook_circle_color.png" width="50px" height="50px"/></a>&nbsp;
                         <a href="https://twitter.com/code4pt"><img src="/styles/img/sico_twitter_circle_color.png" width="50px" height="50px"/></a>&nbsp;
                         <a href="https://plus.google.com/b/117147943367819166591/117147943367819166591/posts"><img src="/styles/img/sico_google_circle_color.png" width="50px" height="50px"/></a>&nbsp;
@@ -51,6 +52,25 @@
                         <a href="https://github.com/code4pt/dcid"><img src="/styles/img/sico_github_circle_black.png" width="50px" height="50px"/></a>&nbsp;
                     </p>
                     <p><code>#code4pt</code> <code>#dcid</code> <a class="btn" href="contact.php"><i class="icon-envelope"></i>&nbsp;Contactos</a></p>
+                    <br/>
+                    <h2>Não percas as novidades</h2>
+                    <!-- Begin MailChimp Signup Form -->
+                    <div id="mc_embed_signup">
+                        <form action="http://code4pt.us7.list-manage2.com/subscribe/post?u=ed049287aaccb0a4fbd6b1c7a&amp;id=e3572e03c4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                            <div class="mc-field-group">
+                                <p>Se quiseres manter-te a par das novidades deixa aqui o teu email e nós tratamos do resto:</p>
+                                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Endereço de email">
+                            </div>
+                            <div id="mce-responses" class="clear">
+                                <div class="response" id="mce-error-response" style="display:none"></div>
+                                <div class="response" id="mce-success-response" style="display:none"></div>
+                            </div>
+                            <div class="clear">
+                                <input type="submit" value="Subscrever" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary">
+                            </div>
+                        </form>
+                    </div>
+                    <!--End mc_embed_signup-->
                 </div>
             </div>
 

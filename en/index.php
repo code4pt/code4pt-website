@@ -32,7 +32,7 @@
                     <p>Currently we're building a platform to support Participatory Budgets (Orçamentos Participativos) and online discussions. You can also <a href="en/submit-idea.php">submit an idea</a> for future projects.</p>
                 </div>
             </div>
-            
+                        
             <div class="row-fluid">
                 <div class="span12">
                     <h2>Projects</h2>

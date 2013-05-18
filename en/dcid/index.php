@@ -32,12 +32,17 @@
             <div class="row">
                 <div class="span6">
                     <h2>The team</h2>
-                    <p>You can check the <a href="team.php">contributors</a> so far or view the project's progress at our open <a class="btn btn-primary" href="https://trello.com/board/dcid/503deb00e6d4f29553864216">Trello board &raquo;</a></p>
+                    <p>You can check the <a href="team.php">contributors</a> so far.</p>
                 </div>
                 <div class="span6">
-                    <h2>Stay tuned. Get involved.</h2>
-                    <p><a class="btn btn-info" href="https://twitter.com/code4pt">Updates @Twitter</a> <a class="btn btn-info" href="https://plus.google.com/b/117147943367819166591/117147943367819166591/posts">Hangouts @Google Plus</a></p>
-                    <p><a class="btn btn-primary">Source code (coming)</a> <a class="btn" href="contact.php">Contact us</a></p>
+                    <h2>Join the conversation</h2>
+                    <p><a href="https://facebook.com/code4pt"><img src="/styles/img/sico_facebook_circle_color.png" width="50px" height="50px"/></a>&nbsp;
+                        <a href="https://twitter.com/code4pt"><img src="/styles/img/sico_twitter_circle_color.png" width="50px" height="50px"/></a>&nbsp;
+                        <a href="https://plus.google.com/b/117147943367819166591/117147943367819166591/posts"><img src="/styles/img/sico_google_circle_color.png" width="50px" height="50px"/></a>&nbsp;
+                        <a href="#"><img src="/styles/img/sico_rss_circle_color.png" width="50px" height="50px"/></a>&nbsp;
+                        <a href="https://github.com/code4pt/dcid"><img src="/styles/img/sico_github_circle_black.png" width="50px" height="50px"/></a>&nbsp;
+                    </p>
+                    <p><code>#code4pt</code> <code>#dcid</code> <a class="btn" href="contact.php"><i class="icon-envelope"></i>&nbsp;Contacts</a></p>
                 </div>
             </div>
 

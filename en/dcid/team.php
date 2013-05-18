@@ -22,22 +22,53 @@
             <div class="row">
                 <div class="span6">
                     <h2>Core team</h2>
-                    <p><ul><b>
-                        <li>Diogo Nunes</li>
-                        <li>António Pereira</li>
-                        <li>Paulo Martins</li>
-                        <li>Ana Almeida</li>
-                    </b></ul></p>
+                    <ul class="thumbnails">
+                        <li class="span2 offset1">
+                            <div class="thumbnail text-center">
+                                <img src="img/team/placeholder.jpg" alt="photo">
+                                <h3>Diogo Nunes</h3>
+                                <p><a href="https://www.facebook.com/dialexnunes"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                    <a href="http://www.linkedin.com/in/nunesdiogo"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                </p>
+                            </div>
+                        </li>
+                        <li class="span2 offset1">
+                            <div class="thumbnail text-center">
+                                <img src="img/team/placeholder.jpg" alt="photo">
+                                <h3>António Pereira</h3>
+                                <p><a href="https://www.facebook.com/Redeagle48"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                    <a href="https://www.linkedin.com/in/antonioppereira"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                </p>
+                            </div>
+                        </li>
+                        <li class="span2 offset1">
+                            <div class="thumbnail text-center">
+                                <img src="img/team/placeholder.jpg" alt="photo">
+                                <h3>Paulo Martins</h3>
+                                <p><a href="https://www.facebook.com/paulo.pontes.m"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                    <a href="http://www.linkedin.com/in/paulopmartins"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                </p>
+                            </div>
+                        </li>
+                        <li class="span2 offset1">
+                            <div class="thumbnail text-center">
+                                <img src="img/team/placeholder.jpg" alt="photo">
+                                <h3>Ana Almeida</h3>
+                                <p><a href="https://www.facebook.com/ana.almeida.372"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                    <a href="http://www.linkedin.com/in/anaalm"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
                     <h3>Previous members</h3>
-                    <p><ul><b>
-                        <li>Cátia Ferreira</li>
-                        <li>Rafael Santos</li>
-                        <li>João Mateus</li>
-                        <li>Filipe Tavares</li>
+                    <p>Cátia Ferreira, Rafael Santos, João Mateus, Filipe Tavares</p>
                 </div>
-                <div class="span6">
-                    <h2>Partners</h2>
-                    <p></p>
+            </div>
+            
+            <div class="row-fluid">
+                <div class="span12">
+                    <h2>Parceiros</h2>
+                    <p><a href="contact.php">Can we help each other?</a></p>
                 </div>
             </div>
 
