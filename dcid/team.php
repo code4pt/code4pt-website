@@ -9,7 +9,7 @@
 
     <body>
 
-        <?php echo $navbar_top_dcid_team; ?>
+        <?php echo $navbar_top_dcid; ?>
 
         <div class="container">
 

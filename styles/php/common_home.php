@@ -14,7 +14,7 @@ $navbar_top_home = '
                         <li class="active"><a href="/">Home</a></li>
                         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Projectos<b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="/dcid/">dcid</a></li>
+                                <li><a href="/dcid/">DCID</a></li>
                             </ul>
                         </li>
                         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Idioma&nbsp;<i class="icon-flag icon-white"></i><b class="caret"></b></a>

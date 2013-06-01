@@ -3,7 +3,7 @@
     <head>
         <?php require(PHP_ROOT.'en_base.php'); require(PHP_ROOT.'en_common_dcid.php');
               echo $BS_header ?>
-        <title>dcid - Developers homepage</title>
+        <title>DCID - Developers homepage</title>
         <meta name="description" content="">
     </head>
 
@@ -11,7 +11,7 @@
 
         <?php echo $navbar_top_dcid; ?>
 
-        <div class="container">
+        <div class="container-fluid">
 
             <div class="hero-unit">
                 <h1>We intend to update democracy.</h1>
@@ -19,17 +19,18 @@
                 <p></p>
             </div>
 
-            <div class="row">
+            <div class="row-fluid">
                 <div class="span6">
                     <h2>The problem</h2>
-                    <p class="lead">Some city councils have started implementing Participatory Budgets. This is a major step towards a more participative democracy. However, each city council spends money and time developing its own <i>ad hoc</i> voting website and the authentication of a user is made using his/her personal email.</p>
+                    <p class="lead">Some city councils have started implementing Participatory Budgets. This is a major step towards a more participative democracy. However, each city council spends money and time developing its own <i>ad hoc</i> voting website. Also more and more enterprises need to manage their internal innovation.</p>
                 </div>
                 <div class="span6">
                     <h2>Our solution</h2>
-                    <p class="lead">Codenamed 'dcid' (spelled <em>decide</em>) is an open platform which offers a simple and effective way to discuss arguments and vote on polls online, because that's what democracy is about. For Participatory Budgets the users' login is attested using the citizens' <a href="http://www.senha001.gov.pt/instalacao.php">Cartão de Cidadão</a>.</p>
+                    <p class="lead">DCID (spelled <em>decide</em>) is an online platform that offers an intuitive way to discuss arguments and vote on polls online. It provides transparency and scalability to your decision process.</p>
                 </div>
             </div>
-            <div class="row">
+            
+            <div class="row-fluid">
                 <div class="span6">
                     <h2>The team</h2>
                     <p>You can check the <a href="team.php">contributors</a> so far.</p>

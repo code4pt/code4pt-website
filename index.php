@@ -37,8 +37,20 @@
                 <div class="span12">
                     <h2>Projetos</h2>
                     <p><ul>
-                        <li class="lead"><a href="/dcid/"><b>dcid</b> - uma plataforma para suportar Orçamentos Participativos e debates online.</a></li>
+                        <li class="lead"><a href="/dcid/"><b>DCID</b> - uma plataforma para suportar Orçamentos Participativos e debates online.</a></li>
                     </ul></p>
+                </div>
+            </div>
+            
+            <div class="row-fluid">
+                <div class="span12 text-center">
+                    <p><a href="https://facebook.com/code4pt"><img src="/styles/img/sico_facebook_circle_color.png" width="50px" height="50px"/></a>&nbsp;
+                        <a href="https://twitter.com/code4pt"><img src="/styles/img/sico_twitter_circle_color.png" width="50px" height="50px"/></a>&nbsp;
+                        <a href="https://plus.google.com/b/117147943367819166591/117147943367819166591/posts"><img src="/styles/img/sico_google_circle_color.png" width="50px" height="50px"/></a>&nbsp;
+                        <a href="http://www.code4pt.info/blog/"><img src="/styles/img/sico_rss_circle_color.png" width="50px" height="50px"/></a>&nbsp;
+                        <a href="https://github.com/code4pt/dcid"><img src="/styles/img/sico_github_circle_black.png" width="50px" height="50px"/></a>&nbsp;
+                    </p>
+                    <p><code>#code4pt</code> <code>#dcid</code> <a class="btn" href="contact.php"><i class="icon-envelope"></i>&nbsp;Contactos</a></p>
                 </div>
             </div>
             

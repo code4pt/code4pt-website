@@ -6,3 +6,14 @@ RewriteRule ^(.*)$ http://www.code4pt.info/$1 [L,R=301]
 
 # Define PHP root
 php_value auto_prepend_file /home/a9675387/public_html/styles/php/init.php
+
+#Removes webhost stat
+php_value auto_append_file none
+#Disables folder's listing
+Options -Indexes
+#enables php gzip
+php_flag zlib.output_compression On
+
+ErrorDocument 403 /error.php
+ErrorDocument 404 /error.php
+ErrorDocument 500 /error.php

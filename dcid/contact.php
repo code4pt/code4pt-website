@@ -10,7 +10,7 @@
 
     <body>
 
-        <?php echo $navbar_top_dcid_contact; ?>
+        <?php echo $navbar_top_dcid; ?>
 
         <div class="container">
 

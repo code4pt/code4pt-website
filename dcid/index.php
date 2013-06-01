@@ -3,7 +3,7 @@
     <head>
         <?php require(PHP_ROOT.'base.php'); require(PHP_ROOT.'common_dcid.php');
               echo $BS_header ?>
-        <title>dcid - Apresentação</title>
+        <title>DCID - Apresentação</title>
         <meta name="description" content="Uma plataforma online, aberta e uniformizada que permita de forma simples e eficaz a qualquer cidadão fazer propostas, debater argumentos e votar - porque isso é a verdadeira democracia">
     </head>
 
@@ -14,32 +14,57 @@
         <div class="container-fluid">
 
             <div class="row-fluid">
-                <div class="span1 visible-desktop visible-tablet"></div> <!-- to center hero-unit on high-res -->
-                <div class="span10">
-                    <div class="hero-unit" align="center">
-                        <h1><em>Uma assembleia de 10 milhões</em></h1>
-                        <p>Esta é a nossa visão.</p>
-                    </div>
+                <div class="span5 offset1">
+                    <h2>O problema</h2>
+                    <p class="lead">Actualmente as organizações precisam cada vez mais de ouvir as suas comunidades e de estabelecer relações. Exemplo disso são os Orçamentos Participativos das câmaras municipais. Infelizmente, cada câmara gasta tempo e dinheiro público a desenvolver o seu próprio site de votação online (reinventando a roda).</p>
+                </div>
+                <div class="span5">
+                    <h2>A solução</h2>
+                    <p class="lead">Propomos a utilização de uma plataforma online que permita de forma eficaz e  transparente a qualquer utilizador (cidadão) fazer propostas, debater argumentos e votar - porque isso é a verdadeira democracia. A plataforma <strong>DCID</strong> pode ser usada em qualquer organização para <em>decidir</em> sobre qualquer assunto.</p>
                 </div>
             </div>
-
+            
+            <br/>
+            
             <div class="row-fluid">
-                <div class="span6">
-                    <h2>O problema</h2>
-                    <p class="lead">Várias câmaras municipais já começaram a implementar Orçamentos Participativos. Infelizmente, cada câmara gasta tempo e dinheiro público a desenvolver o seu próprio site de votação online (reinventando a roda). A autenticação dos cidadãos é feita através do seu endereço de email pessoal, o que não é fidedigno.</p>
+                <div class="span3 offset1">
+                    <h2>Novidades</h2>
+                    <!-- Begin MailChimp Signup Form -->
+                    <div id="mc_embed_signup">
+                        <form action="http://code4pt.us7.list-manage2.com/subscribe/post?u=ed049287aaccb0a4fbd6b1c7a&amp;id=e3572e03c4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                            <div class="mc-field-group">
+                                <p>Visita regularmente o <a href="/blog/">blogue</a> ou deixa-nos o teu email e nós avisamos-te das novidades:</p>
+                                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Endereço de email">
+                            </div>
+                            <div id="mce-responses" class="clear">
+                                <div class="response" id="mce-error-response" style="display:none"></div>
+                                <div class="response" id="mce-success-response" style="display:none"></div>
+                            </div>
+                            <div class="clear">
+                                <input type="submit" value="Subscrever" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary">
+                            </div>
+                        </form>
+                    </div>
+                    <!--End mc_embed_signup-->
                 </div>
-                <div class="span6">
-                    <h2>A solução</h2>
-                    <p class="lead">Uma plataforma online, aberta e uniformizada que permita de forma simples e eficaz a qualquer cidadão fazer propostas, debater argumentos e votar - porque isso é a verdadeira democracia. A autenticação garante que cada cidadão só vota uma vez e de forma anónima (por ex. usando <a href="http://www.senha001.gov.pt/instalacao.php">Cartão de Cidadão</a>). Além disso, a plataforma <strong>dcid</strong> pode ser usada para <em>decidir</em> sobre qualquer assunto.</p>
+                <div class="span4 hero-unit" align="center">
+                    
+                        <img src="/styles/img/logo-dcid-lowres.png" width="450px" height="auto" alt="DCID logo" />
+                    
+                </div>
+                <div class="span3">
+                    <h2>Mais do que uma ideia</h2>
+                    <p>Já temos um protótipo desenvolvido, embora com funcionalidades ainda muito limitadas.</p>
+                    <p><a href="http://dcid.pythonanywhere.com/parliament/"><button class="btn btn-large btn-primary">EXPERIMENTA!</button></a></p>
                 </div>
             </div>
             
             <div class="row-fluid">
-                <div class="span6">
+                <div class="span5 offset1">
                     <a name="screenshots" id="screenshots"></a><h2>O que temos...</h2>
                     <script async class="speakerdeck-embed" data-slide="7" data-id="0adc20009545013076f96e899cf2bb4e" data-ratio="1.41436464088398" src="//speakerdeck.com/assets/embed.js"></script>
                 </div>
-                <div class="span6">
+                <div class="span5">
                     <br/><br/>
                     <h2>A equipa</h2>
                     <p>Todas <a href="team.php">estas pessoas já nos ajudaram</a> neste projeto.</p>
@@ -53,24 +78,6 @@
                     </p>
                     <p><code>#code4pt</code> <code>#dcid</code> <a class="btn" href="contact.php"><i class="icon-envelope"></i>&nbsp;Contactos</a></p>
                     <br/>
-                    <h2>Não percas as novidades</h2>
-                    <!-- Begin MailChimp Signup Form -->
-                    <div id="mc_embed_signup">
-                        <form action="http://code4pt.us7.list-manage2.com/subscribe/post?u=ed049287aaccb0a4fbd6b1c7a&amp;id=e3572e03c4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                            <div class="mc-field-group">
-                                <p>Visita regularmente o <a href="/blog/">blogue</a> ou deixa-nos avisar-te de quando houver novidades, basta deixares aqui o teu email:</p>
-                                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Endereço de email">
-                            </div>
-                            <div id="mce-responses" class="clear">
-                                <div class="response" id="mce-error-response" style="display:none"></div>
-                                <div class="response" id="mce-success-response" style="display:none"></div>
-                            </div>
-                            <div class="clear">
-                                <input type="submit" value="Subscrever" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary">
-                            </div>
-                        </form>
-                    </div>
-                    <!--End mc_embed_signup-->
                 </div>
             </div>
 
