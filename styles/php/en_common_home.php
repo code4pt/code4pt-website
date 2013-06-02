@@ -30,10 +30,10 @@ $navbar_top_home = '
     </div>
 ';
 
-$supporters = '
-    <a href="http://neiist.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/content/img/logo_neiist.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://hackerschool.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/content/img/logo_hackerschool.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://lage2.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/content/img/logo_lage2.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+$common_supporters = '
+    <a href="http://neiist.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/sponsors/img/logo_neiist.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://hackerschool.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/sponsors/img/logo_hackerschool.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://lage2.ist.utl.pt" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="/sponsors/img/logo_lage2.png" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 ';
 
 ?>
