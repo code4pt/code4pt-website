@@ -44,7 +44,7 @@
                         <li class="span2 offset1">
                             <div class="thumbnail text-center">
                                 <img src="img/team/placeholder.jpg" alt="photo">
-                                <h3>Paulo Martins</h3>
+                                <h3>Paulo Morais</h3>
                                 <p><a href="https://www.facebook.com/paulo.pontes.m"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
                                     <a href="http://www.linkedin.com/in/paulopmartins"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
                                 </p>
