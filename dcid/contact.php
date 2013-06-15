@@ -4,8 +4,8 @@
         <?php require(PHP_ROOT.'base.php'); require(PHP_ROOT.'common_dcid.php');
               echo $BS_header ?>
         <?php require_once(PHP_ROOT.'privatedaddy.php'); ?>
-        <title>dcid - Contactos</title>
-        <meta name="description" content="">
+        <title>DCID - Contactos</title>
+        <meta name="description" content="Como contactar a equipa responsável pelo projecto DCID.">
     </head>
 
     <body>
@@ -31,7 +31,7 @@
                 </div>
                 <div class="span4">
                     <h2>Líder do projeto</h2>
-                    <p><a href="mailto:email@code4pt.info">email@code4pt.info</a></p>
+                    <p><a href="mailto:email@code4pt.info">diogo.alexandre@ist.utl.pt</a></p>
                 </div>
             </div>
 
