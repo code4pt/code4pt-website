@@ -41,7 +41,7 @@
                             <img src="/styles/img/logo-dcid-lowres.png" width="250" height="auto" alt="DCID logo" align="center" />
                             <br/><br/>
                             <p><strong>Uma plataforma colaborativa online que permite a qualquer organização recolher e debater sugestões da sua comunidade.</strong></p>
-                            <p><a class="btn btn-primary" href="/dcid/"><b>Quero saber mais!</b></a></p>
+                            <p><a class="btn btn-primary" href="/dcid/">Quero saber mais!</a></p>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                                 <a href="http://www.code4pt.info/blog/"><img src="/styles/img/sico_rss_circle_color.png" width="50" height="50" alt="blog icon"/></a>&nbsp;
                                 <a href="https://github.com/code4pt/dcid"><img src="/styles/img/sico_github_circle_black.png" width="50" height="50" alt="github icon"/></a>&nbsp;
                             </p>
-                            <p><code>#code4pt</code> <a class="btn" href="/dcid/contact.php"><i class="icon-envelope"></i>&nbsp;Contactos</a></p>
+                            <p><a class="btn" href="/dcid/contact.php"><i class="icon-envelope"></i>&nbsp;Contactos</a></p>
                         </div>
                         <div class="span4">
                             <p><a class="btn btn-info" href="/dcid/contact.php">Quero apoiar-vos &raquo;</a> Há várias maneiras de nos ajudares, começa escolhendo uma.</p>
