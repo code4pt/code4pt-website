@@ -23,7 +23,7 @@
                 <div class="span12">
                     <h2>Equipa principal</h2>
                     <ul class="thumbnails">
-                        <li class="span2 offset1">
+                        <li class="span3 offset1">
                             <div class="thumbnail text-center">
                                 <img src="img/team/team1.jpg" alt="photo">
                                 <h3>Diogo Nunes</h3>
@@ -32,7 +32,7 @@
                                 </p>
                             </div>
                         </li>
-                        <li class="span2 offset1">
+                        <li class="span3 offset1">
                             <div class="thumbnail text-center">
                                 <img src="img/team/team3.jpg" alt="photo">
                                 <h3>António Pereira</h3>
@@ -41,16 +41,7 @@
                                 </p>
                             </div>
                         </li>
-                        <li class="span2 offset1">
-                            <div class="thumbnail text-center">
-                                <img src="img/team/team2.jpg" alt="photo">
-                                <h3>Paulo Martins</h3>
-                                <p><a href="https://www.facebook.com/paulo.pontes.m"><img src="/styles/img/sico_facebook_circle_color.png" width="25px" height="25px"/></a>&nbsp;
-                                    <a href="http://www.linkedin.com/in/paulopmartins"><img src="/styles/img/sico_linkedin_circle_color.png" width="25px" height="25px"/></a>&nbsp;
-                                </p>
-                            </div>
-                        </li>
-                        <li class="span2 offset1">
+                        <li class="span3 offset1">
                             <div class="thumbnail text-center">
                                 <img src="img/team/team4.jpg" alt="photo">
                                 <h3>Ana Almeida</h3>
@@ -61,7 +52,7 @@
                         </li>
                     </ul>
                     <h3>Antigos membros</h3>
-                    <p>Cátia Ferreira, Rafael Santos, João Mateus, Filipe Tavares</p>
+                    <p>Paulo Martins, Cátia Ferreira, Rafael Santos, João Mateus, Filipe Tavares</p>
                 </div>
             </div>
             
